@@ -1,0 +1,4 @@
+export const COMMENT_REQUEST = "COMMENT_REQUEST";
+export const COMMENT_SUCCESS = "COMMENT_SUCCESS";
+export const COMMENT_FAIL = "COMMENT_FAIL";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
